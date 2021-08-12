@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lun7toc
 - 👀 I’m interested in Network Programming
-- 🌱 I’m currently learning about phthon skill.
+- 🌱 I’m currently learning about python skill.
 - 📫 How to reach me ...
 
 <!---
