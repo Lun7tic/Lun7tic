@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lun7toc
+- 👋 Hi, I’m Lun7tic
 - 👀 I’m interested in Network Programming
 - 🌱 I’m currently learning about python skill.
 - 📫 How to reach me ...
